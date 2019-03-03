@@ -1,0 +1,7 @@
+[package]
+name = "boj-rust-2741"
+version = "0.1.0"
+authors = ["Hanju Jo <dev.hanju.jo@gmail.com>"]
+edition = "2018"
+
+[dependencies]
